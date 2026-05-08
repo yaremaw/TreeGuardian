@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-04-17T09:38:36.993929+00:00",
+  "count": 5,
+  "events": [
+    {
+      "id": "solotvyn",
+      "name": "Богородчанський р-н (схід Солотвина)",
+      "region": "Івано-Франківська",
+      "bbox": [
+        24.43,
+        48.72,
+        24.47,
+        48.76
+      ],
+      "center": [
+        24.45,
+        48.739999999999995
+      ],
+      "date_before": "2024-07-15",
+      "date_after": "2024-09-30",
+      "area_total_ha": 1300.1,
+      "area_loss_ha": 32.38,
+      "ndvi_drop_mean": 0.281,
+      "ndvi_before_mean": 0.761,
+      "ndvi_after_mean": 0.736,
+      "confidence": 0.41,
+      "assets": {
+        "before": "/data/events/solotvyn/before.png",
+        "after": "/data/events/solotvyn/after.png",
+        "mask": "/data/events/solotvyn/ndvi_diff.png"
+      }
+    },
+    {
+      "id": "yablunyi",
+      "name": "Яблуниця",
+      "region": "Івано-Франківська",
+      "bbox": [
+        24.6,
+        48.38,
+        24.64,
+        48.42
+      ],
+      "center": [
+        24.62,
+        48.400000000000006
+      ],
+      "date_before": "2024-07-15",
+      "date_after": "2024-09-30",
+      "area_total_ha": 1308.8,
+      "area_loss_ha": 21.2,
+      "ndvi_drop_mean": 0.267,
+      "ndvi_before_mean": 0.779,
+      "ndvi_after_mean": 0.785,
+      "confidence": 0.35,
+      "assets": {
+        "before": "/data/events/yablunyi/before.png",
+        "after": "/data/events/yablunyi/after.png",
+        "mask": "/data/events/yablunyi/ndvi_diff.png"
+      }
+    },
+    {
+      "id": "verkhovyna",
+      "name": "Верховина (північ)",
+      "region": "Івано-Франківська",
+      "bbox": [
+        24.79,
+        48.16,
+        24.83,
+        48.2
+      ],
+      "center": [
+        24.81,
+        48.18
+      ],
+      "date_before": "2024-07-15",
+      "date_after": "2024-09-30",
+      "area_total_ha": 1314.5,
+      "area_loss_ha": 11.43,
+      "ndvi_drop_mean": 0.25,
+      "ndvi_before_mean": 0.815,
+      "ndvi_after_mean": 0.809,
+      "confidence": 0.29,
+      "assets": {
+        "before": "/data/events/verkhovyna/before.png",
+        "after": "/data/events/verkhovyna/after.png",
+        "mask": "/data/events/verkhovyna/ndvi_diff.png"
+      }
+    },
+    {
+      "id": "skole",
+      "name": "Сколе (схід)",
+      "region": "Львівська",
+      "bbox": [
+        23.53,
+        49.02,
+        23.57,
+        49.06
+      ],
+      "center": [
+        23.55,
+        49.040000000000006
+      ],
+      "date_before": "2024-07-15",
+      "date_after": "2024-09-30",
+      "area_total_ha": 1292.3,
+      "area_loss_ha": 10.17,
+      "ndvi_drop_mean": 0.299,
+      "ndvi_before_mean": 0.887,
+      "ndvi_after_mean": 0.854,
+      "confidence": 0.34,
+      "assets": {
+        "before": "/data/events/skole/before.png",
+        "after": "/data/events/skole/after.png",
+        "mask": "/data/events/skole/ndvi_diff.png"
+      }
+    },
+    {
+      "id": "krasnyk",
+      "name": "Красник (Косівщина)",
+      "region": "Івано-Франківська",
+      "bbox": [
+        24.98,
+        48.28,
+        25.02,
+        48.32
+      ],
+      "center": [
+        25.0,
+        48.3
+      ],
+      "date_before": "2024-07-15",
+      "date_after": "2024-09-30",
+      "area_total_ha": 1311.4,
+      "area_loss_ha": 9.09,
+      "ndvi_drop_mean": 0.276,
+      "ndvi_before_mean": 0.862,
+      "ndvi_after_mean": 0.861,
+      "confidence": 0.31,
+      "assets": {
+        "before": "/data/events/krasnyk/before.png",
+        "after": "/data/events/krasnyk/after.png",
+        "mask": "/data/events/krasnyk/ndvi_diff.png"
+      }
+    }
+  ]
+}

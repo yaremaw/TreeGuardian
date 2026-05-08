@@ -1,0 +1,11 @@
+# Дев-файли і допоміжні артефакти, не потрібні для Next.js рантайму
+scripts/
+_screenshots/
+.playwright-mcp/
+.claude/
+ndvi_pipeline.ipynb
+paper.md
+paper.docx
+slides.md
+slides.pptx
+vozniak_proekt.docx

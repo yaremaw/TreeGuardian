@@ -1,0 +1,28 @@
+{
+  "id": "krasnyk",
+  "name": "Красник (Косівщина)",
+  "region": "Івано-Франківська",
+  "bbox": [
+    24.98,
+    48.28,
+    25.02,
+    48.32
+  ],
+  "center": [
+    25.0,
+    48.3
+  ],
+  "date_before": "2024-07-15",
+  "date_after": "2024-09-30",
+  "area_total_ha": 1311.4,
+  "area_loss_ha": 9.09,
+  "ndvi_drop_mean": 0.276,
+  "ndvi_before_mean": 0.862,
+  "ndvi_after_mean": 0.861,
+  "confidence": 0.31,
+  "assets": {
+    "before": "/data/events/krasnyk/before.png",
+    "after": "/data/events/krasnyk/after.png",
+    "mask": "/data/events/krasnyk/ndvi_diff.png"
+  }
+}

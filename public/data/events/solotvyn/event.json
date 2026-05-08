@@ -1,0 +1,28 @@
+{
+  "id": "solotvyn",
+  "name": "Богородчанський р-н (схід Солотвина)",
+  "region": "Івано-Франківська",
+  "bbox": [
+    24.43,
+    48.72,
+    24.47,
+    48.76
+  ],
+  "center": [
+    24.45,
+    48.739999999999995
+  ],
+  "date_before": "2024-07-15",
+  "date_after": "2024-09-30",
+  "area_total_ha": 1300.1,
+  "area_loss_ha": 32.38,
+  "ndvi_drop_mean": 0.281,
+  "ndvi_before_mean": 0.761,
+  "ndvi_after_mean": 0.736,
+  "confidence": 0.41,
+  "assets": {
+    "before": "/data/events/solotvyn/before.png",
+    "after": "/data/events/solotvyn/after.png",
+    "mask": "/data/events/solotvyn/ndvi_diff.png"
+  }
+}

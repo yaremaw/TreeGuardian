@@ -1,0 +1,28 @@
+{
+  "id": "verkhovyna",
+  "name": "Верховина (північ)",
+  "region": "Івано-Франківська",
+  "bbox": [
+    24.79,
+    48.16,
+    24.83,
+    48.2
+  ],
+  "center": [
+    24.81,
+    48.18
+  ],
+  "date_before": "2024-07-15",
+  "date_after": "2024-09-30",
+  "area_total_ha": 1314.5,
+  "area_loss_ha": 11.43,
+  "ndvi_drop_mean": 0.25,
+  "ndvi_before_mean": 0.815,
+  "ndvi_after_mean": 0.809,
+  "confidence": 0.29,
+  "assets": {
+    "before": "/data/events/verkhovyna/before.png",
+    "after": "/data/events/verkhovyna/after.png",
+    "mask": "/data/events/verkhovyna/ndvi_diff.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    },
+    "colab-mcp": {
+      "command": "uvx",
+      "args": ["git+https://github.com/googlecolab/colab-mcp"],
+      "timeout": 30000
+    },
+    "bitwarden": {
+      "command": "node",
+      "args": ["/opt/homebrew/lib/node_modules/@bitwarden/mcp-server/dist/index.js"],
+      "env": {
+        "BW_SESSION": "<unlock with: bw unlock --raw>",
+        "BW_API_BASE_URL": "https://api.bitwarden.eu",
+        "BW_IDENTITY_URL": "https://identity.bitwarden.eu"
+      }
+    },
+    "telegram": {
+      "command": "/Users/naz/.local/bin/mcp-telegram",
+      "args": ["start"],
+      "env": {
+        "API_ID": "<your Telegram API ID>",
+        "API_HASH": "<your Telegram API hash>"
+      }
+    }
+  }
+}

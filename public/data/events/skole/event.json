@@ -1,0 +1,28 @@
+{
+  "id": "skole",
+  "name": "Сколе (схід)",
+  "region": "Львівська",
+  "bbox": [
+    23.53,
+    49.02,
+    23.57,
+    49.06
+  ],
+  "center": [
+    23.55,
+    49.040000000000006
+  ],
+  "date_before": "2024-07-15",
+  "date_after": "2024-09-30",
+  "area_total_ha": 1292.3,
+  "area_loss_ha": 10.17,
+  "ndvi_drop_mean": 0.299,
+  "ndvi_before_mean": 0.887,
+  "ndvi_after_mean": 0.854,
+  "confidence": 0.34,
+  "assets": {
+    "before": "/data/events/skole/before.png",
+    "after": "/data/events/skole/after.png",
+    "mask": "/data/events/skole/ndvi_diff.png"
+  }
+}

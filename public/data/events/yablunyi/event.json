@@ -1,0 +1,28 @@
+{
+  "id": "yablunyi",
+  "name": "Яблуниця",
+  "region": "Івано-Франківська",
+  "bbox": [
+    24.6,
+    48.38,
+    24.64,
+    48.42
+  ],
+  "center": [
+    24.62,
+    48.400000000000006
+  ],
+  "date_before": "2024-07-15",
+  "date_after": "2024-09-30",
+  "area_total_ha": 1308.8,
+  "area_loss_ha": 21.2,
+  "ndvi_drop_mean": 0.267,
+  "ndvi_before_mean": 0.779,
+  "ndvi_after_mean": 0.785,
+  "confidence": 0.35,
+  "assets": {
+    "before": "/data/events/yablunyi/before.png",
+    "after": "/data/events/yablunyi/after.png",
+    "mask": "/data/events/yablunyi/ndvi_diff.png"
+  }
+}

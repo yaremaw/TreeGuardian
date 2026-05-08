@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "mcp__claude_ai_Notion__notion-get-teams",
+      "mcp__claude_ai_Notion__notion-create-pages",
+      "mcp__claude_ai_Notion__notion-search",
+      "Bash(python3 *)",
+      "Bash(npm run *)",
+      "Bash(npx --yes vercel@latest --prod --yes)",
+      "Bash(curl -s https://treeguardian.vercel.app/data/events.json)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "Bash(/Users/naz/.local/bin/mcp-telegram --help)",
+      "Bash(/Users/naz/.local/bin/mcp-telegram tools *)",
+      "Bash(npm install *)",
+      "Bash(xxd)"
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "playwright",
+    "colab-mcp",
+    "bitwarden",
+    "telegram"
+  ]
+}

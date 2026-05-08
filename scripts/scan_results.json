@@ -1,0 +1,182 @@
+[
+  {
+    "id": "solotvyn_east",
+    "name": "Схід Солотвина",
+    "bbox": [
+      24.43,
+      48.72,
+      24.47,
+      48.760000000000005
+    ],
+    "loss_ha": 32.53,
+    "loss_frac_pct": 2.5,
+    "ndvi_before": 0.761,
+    "ndvi_after": 0.736,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "yablunyi",
+    "name": "Яблуниця",
+    "bbox": [
+      24.6,
+      48.379999999999995,
+      24.64,
+      48.42
+    ],
+    "loss_ha": 20.83,
+    "loss_frac_pct": 1.59,
+    "ndvi_before": 0.779,
+    "ndvi_after": 0.785,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "verkhovyna_north",
+    "name": "Північ Верховини",
+    "bbox": [
+      24.79,
+      48.16,
+      24.83,
+      48.2
+    ],
+    "loss_ha": 11.53,
+    "loss_frac_pct": 0.88,
+    "ndvi_before": 0.815,
+    "ndvi_after": 0.809,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "skole_east",
+    "name": "Схід Сколя",
+    "bbox": [
+      23.53,
+      49.019999999999996,
+      23.57,
+      49.06
+    ],
+    "loss_ha": 10.52,
+    "loss_frac_pct": 0.81,
+    "ndvi_before": 0.887,
+    "ndvi_after": 0.854,
+    "valid_pixels": 64965
+  },
+  {
+    "id": "krasnyk",
+    "name": "Красник (Косівщина)",
+    "bbox": [
+      24.98,
+      48.279999999999994,
+      25.02,
+      48.32
+    ],
+    "loss_ha": 9.18,
+    "loss_frac_pct": 0.7,
+    "ndvi_before": 0.862,
+    "ndvi_after": 0.861,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "rakhiv_north",
+    "name": "Північ Рахова",
+    "bbox": [
+      24.28,
+      48.08,
+      24.32,
+      48.120000000000005
+    ],
+    "loss_ha": 6.73,
+    "loss_frac_pct": 0.51,
+    "ndvi_before": 0.88,
+    "ndvi_after": 0.869,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "hvizdets",
+    "name": "Гвіздець",
+    "bbox": [
+      25.09,
+      48.4,
+      25.13,
+      48.440000000000005
+    ],
+    "loss_ha": 6.61,
+    "loss_frac_pct": 0.51,
+    "ndvi_before": 0.864,
+    "ndvi_after": 0.848,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "delyatyn_west",
+    "name": "Захід Делятина",
+    "bbox": [
+      24.53,
+      48.48,
+      24.57,
+      48.52
+    ],
+    "loss_ha": 4.72,
+    "loss_frac_pct": 0.36,
+    "ndvi_before": 0.88,
+    "ndvi_after": 0.882,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "nadvirna_south",
+    "name": "Південь Надвірни",
+    "bbox": [
+      24.53,
+      48.529999999999994,
+      24.57,
+      48.57
+    ],
+    "loss_ha": 4.58,
+    "loss_frac_pct": 0.35,
+    "ndvi_before": 0.896,
+    "ndvi_after": 0.894,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "perehinske_south",
+    "name": "Південь Перегінського",
+    "bbox": [
+      23.93,
+      48.76,
+      23.97,
+      48.800000000000004
+    ],
+    "loss_ha": 2.34,
+    "loss_frac_pct": 0.18,
+    "ndvi_before": 0.844,
+    "ndvi_after": 0.846,
+    "valid_pixels": 65534
+  },
+  {
+    "id": "yaremche_west",
+    "name": "Захід Яремчого",
+    "bbox": [
+      24.490000000000002,
+      48.419999999999995,
+      24.53,
+      48.46
+    ],
+    "loss_ha": 2.06,
+    "loss_frac_pct": 0.16,
+    "ndvi_before": 0.875,
+    "ndvi_after": 0.877,
+    "valid_pixels": 65536
+  },
+  {
+    "id": "vorokhta_north",
+    "name": "Північ Ворохти",
+    "bbox": [
+      24.53,
+      48.3,
+      24.57,
+      48.34
+    ],
+    "loss_ha": 1.6,
+    "loss_frac_pct": 0.12,
+    "ndvi_before": 0.846,
+    "ndvi_after": 0.86,
+    "valid_pixels": 65536
+  }
+]
